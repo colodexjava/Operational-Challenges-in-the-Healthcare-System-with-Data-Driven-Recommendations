@@ -1,29 +1,29 @@
 # Operational-Challenges-in-the-Healthcare-System-with-Data-Driven-Recommendations-Project
 
 ## Outline
-- [Project Overview](#-project-overview)
+- [Project Overview](#project-overview)
 
-- [Data Source](#-data_source)
+- [Data Source](#data-source)
 
-- [Tool](#-tool)
+- [Tool](#tool)
 
-- [Clinical Problem](#-clinical-problem)
+- [Clinical Problem](#clinical-problem)
 
-- [Dataset description](#-dataset-description)
+- [Dataset description](#dataset-description)
 
-- [Data Cleaning/preparation](#-data-cleaning/preparation)
+- [Data Cleaning/preparation](#data-cleaning/preparation)
 
-- [Exploratory Data Analysis](#-exploratory-data-analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
-- [Data Analysis](#-data-analysis)
+- [Data Analysis](#data-analysis)
 
-- [Key Finding](#-key-finding)
+- [Key Finding](#key-finding)
 
-- [Recommendations](#-recommendations)
+- [Recommendations](#recommendations)
 
-- [Limitations](#-limitations)
+- [Limitations](#limitations)
 
-- [Next Step](#-next-step)
+- [Next Step](#next-step)
 
 
 ## Project Overview
