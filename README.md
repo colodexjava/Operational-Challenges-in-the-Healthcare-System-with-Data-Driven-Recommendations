@@ -11,7 +11,7 @@
 
 - [Dataset description](#dataset-description)
 
-- [Data Cleaning/preparation](#data-cleaning/preparation)
+- [Data Cleaning/preparation](#data-cleaning-and-preparation)
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -55,7 +55,7 @@ Columns included in the dataset:
 -	Patient Satisfaction Score: graded from 1 to 10, with 1 being “least satisfied” and 10 being “very satisfied”. “Blank” means no response
 
 
-## Data Cleaning/preparation
+## Data Cleaning and preparation
 data was imported into Excel, inspected and duplicates were removed. formatting for each column was checked to ensure swift analysis.
 
 
